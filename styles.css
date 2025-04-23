@@ -110,3 +110,8 @@ nav ul li a:hover {
     height: auto;
   }
 }
+.adsense-container {
+  margin: 20px auto;
+  max-width: 728px;
+  text-align: center;
+}
