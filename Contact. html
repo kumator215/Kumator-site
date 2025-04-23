@@ -1,0 +1,23 @@
+<!-- contact.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact Us - Kumator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="Kumator Logo" style="height: 60px;">
+    <h1>Contact Us</h1>
+  </header>
+  <main>
+    <p>Email: orkumakumator.2008@gmail.com</p>
+    <p>Instagram: @kumator28_official</p>
+  </main>
+  <footer>
+    <p>&copy; 2025 Kumator. All rights reserved.</p>
+  </footer>
+</body>
+</html>
